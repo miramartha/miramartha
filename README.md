@@ -1,6 +1,4 @@
-
-
-###👋 Hi, I’m Mira Marta Putriana
+👋 Hi, I’m Mira Marta Putriana
 
 🎓 Information Systems Student at Universitas Tarumanagara
 📊 Aspiring Data Analyst | Dashboard Developer | Digital Marketing Enthusiast
